@@ -7,5 +7,8 @@ Predicting quality of barbell lifts - classified from A to E, using data from ac
 ## Algorithm
 `Random Forest`
 
-## Detailed Report
-The HTML report for the aforementioned project can be found [here](https://saswatdavid.github.io/Human-Activity-Recognition-Practical-Machine-Learning/ "Human Activity Recognition - Practical Machine Learning").
+## Report
+[HTML Report](https://saswatdavid.github.io/Human-Activity-Recognition-Practical-Machine-Learning/ "Human Activity Recognition - HTML Report")
+[HTML Code](https://github.com/saswatdavid/Human-Activity-Recognition-Practical-Machine-Learning/blob/master/index.html/ "Human Activity Recognition - HTML Code")
+[R Markdown File](https://github.com/saswatdavid/Human-Activity-Recognition-Practical-Machine-Learning/blob/master/Human%20Activity%20Recognition.Rmd/ "Human Activity Recognition - Rmd File")
+[R Code](https://github.com/saswatdavid/Human-Activity-Recognition-Practical-Machine-Learning/blob/master/Human%20Activity%20Recognition.R/ "Human Activity Recognition - R Code")
